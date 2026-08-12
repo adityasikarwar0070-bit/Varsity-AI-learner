@@ -1,0 +1,6 @@
+{
+  "name": "AI Masterclass 2026",
+  "description": "Interactive A to Z AI learning platform with dual Text/Video lessons, 2026 AI tools directory, and live AI playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
